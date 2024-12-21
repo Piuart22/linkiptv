@@ -1,2 +1,3 @@
-#EXTINF:-1 group-title="aa",moji
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_206_240p/hdntl=exp=1729735024~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=83384939~data=hdntl~hmac=12fc00c578cd5dd16012d885f1406de1d5896e67bdfeae15e2e08a0d760572ce/index.m3u8?title=moji
+#EXTINF:-1 tvg-id="" group-title="EVENT TIMNAS" tvg-logo="" ch-number="", Southeast Jin: Indonesia VS Philippines (Start: 20:00 - End: 22:00 * 21-12-2024)#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://lebo.huminbird.cn/live/ballbar_34020.m3u8#EXTINF:-1 tvg-id="" group-title="EVENT TIMNAS" tvg-logo="" ch-number="", Southeast Jin: Indonesia VS Philippines (Start: 20:00 - End: 22:00 * 21-12-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0https://lebo.huminbird.cn/live/ballbar_10630.m3u8
